@@ -24,4 +24,4 @@
 <img src="poster pic1.PNG" width="600">
 
 ## This is my presentation:
-<img src="" width="600">
+<img src="presentation pic1.PNG" width="600">
