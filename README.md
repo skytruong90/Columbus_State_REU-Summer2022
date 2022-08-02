@@ -9,10 +9,11 @@
 # Our Research: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
 ### Team members: 
-- [Syndey]
-- [Khalil]
 - [David Tan](https://github.com/skytruong90)
 
+### Faculty Mentor:
+- Alfredo J. Perez, Ph. D.
+<img src="" width="250">
 
 ## How view the paper, poster, and presentation:
 1. In order to view the full presentation, going to the folder `Our Presentation`
@@ -20,10 +21,10 @@
 3. The paper can be view by clicking on the `Research Paper.pdf`
 
 ## This is the paper:
-<img src="Paper pic.png" width="400">
+<img src="" width="400">
 
 ## This is the poster:
-<img src="poster.png" width="600">
+<img src="" width="600">
 
 ## This is our presentation:
-<img src="presentation.png" width="600">
+<img src="" width="600">
