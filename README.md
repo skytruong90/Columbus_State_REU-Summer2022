@@ -13,9 +13,9 @@
 <img src="Perez.jpg" width="300">
 
 ## How view the paper, poster, and presentation:
-1. In order to view the full presentation, going to the folder `Our Presentation`
-2. The poster can be view by clicking on the `poster.png`
-3. The paper can be view by clicking on the `Research Paper.pdf`
+1. In order to view the full presentation, going to the folder ``
+2. The poster can be view by clicking on the ``
+3. The paper can be view by clicking on the ``
 
 ## This is my reserch paper:
 <img src="" width="400">
