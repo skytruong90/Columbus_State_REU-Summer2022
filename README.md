@@ -15,7 +15,7 @@
 ## How view the paper, poster, and presentation:
 1. In order to view the full presentation, going to the folder ``
 2. The poster can be view by clicking on the ``
-3. The paper can be view by clicking on the ``
+3. The paper can be view by clicking on the `Columbus Research Paper.pdf`
 
 ## This is my reserch paper:
 <img src="paper pic1.PNG" width="450">
