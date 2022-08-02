@@ -18,7 +18,7 @@
 3. The paper can be view by clicking on the `Columbus Research Paper.pdf`
 
 ## This is my reserch paper:
-<img src="paper pic1.PNG" width="450">
+<img src="paper pic1.PNG" width="420">
 
 ## This is my research poster:
 <img src="poster pic1.PNG" width="600">
