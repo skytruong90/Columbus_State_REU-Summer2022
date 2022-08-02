@@ -8,9 +8,6 @@
 
 # Our Research: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
-### Team members: 
-- [David Tan](https://github.com/skytruong90)
-
 ### Faculty Mentor:
 - Alfredo J. Perez, Ph. D.
 <img src="Perez.jpg" width="300">
