@@ -17,11 +17,11 @@
 2. The poster can be view by clicking on the `poster.png`
 3. The paper can be view by clicking on the `Research Paper.pdf`
 
-## Our reserch paper:
+## This is my reserch paper:
 <img src="" width="400">
 
-## Our research poster:
+## This is my research poster:
 <img src="" width="600">
 
-## This is our presentation:
+## This is my presentation:
 <img src="" width="600">
