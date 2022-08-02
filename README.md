@@ -13,7 +13,7 @@
 
 ### Faculty Mentor:
 - Alfredo J. Perez, Ph. D.
-<img src="" width="250">
+<img src="Perez.jpg" width="300">
 
 ## How view the paper, poster, and presentation:
 1. In order to view the full presentation, going to the folder `Our Presentation`
