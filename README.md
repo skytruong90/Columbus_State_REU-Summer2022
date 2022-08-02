@@ -18,7 +18,7 @@
 3. The paper can be view by clicking on the ``
 
 ## This is my reserch paper:
-<img src="paper pic1.PNG" width="500">
+<img src="paper pic1.PNG" width="450">
 
 ## This is my research poster:
 <img src="" width="600">
