@@ -21,7 +21,7 @@
 <img src="paper pic1.PNG" width="450">
 
 ## This is my research poster:
-<img src="" width="600">
+<img src="poster pic1.PNG" width="500">
 
 ## This is my presentation:
 <img src="" width="600">
