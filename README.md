@@ -8,6 +8,8 @@
 
 # Our Research: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
+## Our Goal: To build off from pervious research and to filter and finalize permission feature dataset and to create a machine learning model with a classifer that distinguish malicious applications from non-malicious applications using just the permission. 
+
 ### Faculty Mentor:
 - Alfredo J. Perez, Ph. D.
 <img src="Perez.jpg" width="300">
